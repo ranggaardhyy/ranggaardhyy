@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rangga Ardhy S a.k.a Boenyy</h1>
 <h3 align="center">A passionate Fullstack Web Developer & Minecraft Setup & Custom Plugin Developer</h3>
 
-**READY FOR WORKS**
+<h3 align="center">READY FOR WORKS/FREELANCE</h3>
 
 - 🌱 I’m currently learning **React.js**
 
