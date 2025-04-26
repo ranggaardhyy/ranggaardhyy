@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rangga As a.k.a Boenyy</h1>
+<h1 align="center">Hi 👋, I'm Rangga Ardhy S a.k.a Boenyy</h1>
 <h3 align="center">A passionate Fullstack Web Developer & Minecraft Setup & Custom Plugin Developer</h3>
 
 - 🌱 I’m currently learning **React.js**
