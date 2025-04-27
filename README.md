@@ -1,7 +1,7 @@
 # 👋 Hello there, I'm Rangga AS (aka Boenyy)!
 
 Welcome to my GitHub profile!  
-I'm a passionate developer who loves to build things — from smart machine learning models to dynamic websites and even custom Minecraft plugins! 🚀
+I'm a passionate developer who loves to build things — from smart machine learning models to dynamic websites and even Custom Minecraft plugins and Minecraft Setup Specialist! 🚀
 
 ## 🛠️ Tools I Use
 <p align="left">
