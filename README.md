@@ -5,8 +5,8 @@ I'm a passionate developer who loves to build things — from smart machine lear
 
 ### 💼 Open for Freelance / Part-Time Developer
 
-[![Freelance Badge](https://img.shields.io/badge/Freelance-Open-green?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
-[![Part-Time Badge](https://img.shields.io/badge/Part--Time-Available-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
+[![Freelance Badge](https://img.shields.io/badge/Freelance-Open-green?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437488468525056001)
+[![Part-Time Badge](https://img.shields.io/badge/Part--Time-Available-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437488468525056001)
 
 I'm available to work on Web Development, and Custom Minecraft Plugin Development.  
 Feel free to **DM me on Discord** — let's create something extraordinary!
