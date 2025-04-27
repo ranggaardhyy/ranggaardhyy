@@ -5,9 +5,11 @@ I'm a passionate developer who loves to build things — from smart machine lear
 
 ### 💼 Open for Freelance / Part-Time Developer
 
-> 🚀 **Currently available** for **Freelance** and **Part-Time Developer** projects!  
-> 🎯 Focus areas: Full-Stack Web Development, Minecraft Plugin Development.  
-> 📬 Feel free to [DM me on Discord](https://discord.com/users/437488468525056001) — Let's build something amazing together!
+[![Freelance Badge](https://img.shields.io/badge/Freelance-Open-green?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
+[![Part-Time Badge](https://img.shields.io/badge/Part--Time-Available-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_USER_ID)
+
+I'm available to work on Web Development, and Custom Minecraft Plugin Development.  
+Feel free to **DM me on Discord** — let's create something extraordinary!
 
 ### 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-ranggaardhyy22@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggaardhyy22@gmail.com)
