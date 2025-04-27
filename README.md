@@ -16,9 +16,6 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
 [![Gmail Badge](https://img.shields.io/badge/-ranggaardhyy22@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggaardhyy22@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-BOENY%239651-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437488468525056001)
 
----
-
-✉️ **Email:** ranggaardhyy22@gmail.com  
 💬 **Discord:** [Click here to chat on Discord](https://discord.com/users/437488468525056001)
 
 ## 🛠️ Tools I Use
@@ -30,7 +27,7 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
 
 ## 🧠 Skills & Specialties
 
-### Machine Learning / Deep Learning
+### - Machine Learning / Deep Learning
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -44,7 +41,7 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
 </p>
 </p>
 
-### Web Development
+### - Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -57,9 +54,9 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </p>
 
-### 🔥 Minecraft Development Specialist
+### - 🔥 Minecraft Development Specialist
 
-#### 🛠️ Server Setup & Optimization
+####  • 🛠️ Server Setup & Optimization
 <p align="left">
   <img src="https://img.shields.io/badge/Spigot-000000?style=for-the-badge&logo=spigotmc&logoColor=white" alt="SpigotMC"/>
   <img src="https://img.shields.io/badge/PaperMC-FFFFFF?style=for-the-badge&logo=papermc&logoColor=black" alt="PaperMC"/>
@@ -73,7 +70,7 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
 - 🛡️ Plugin configuration, anti-cheat, permission management (LuckPerms, EssentialsX)
 - 🌎 Multi-world server setup (Multiverse-Core, EssentialsX)
 
-#### 🔥 Custom Plugin Development
+#### • 🔥 Custom Plugin Development
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -98,5 +95,5 @@ Whether it's crafting intelligent models, building responsive websites, or enhan
 <!-- Optional: GitHub Stats -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranggaardhy&show_icons=true&theme=radical" alt="Boenyy's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranggaardhyy&show_icons=true&theme=radical" alt="Boenyy's GitHub Stats"/>
   <br/>
