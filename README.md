@@ -47,7 +47,7 @@ Whether it's crafting intelligent models, building responsive websites, or enhan
 <!-- Optional: GitHub Stats -->
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boenyy&show_icons=true&theme=radical" alt="Boenyy's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranggaardhyy&show_icons=true&theme=radical" alt="Boenyy's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boenyy&theme=radical" alt="Boenyy's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranggaardhyy&theme=radical" alt="Boenyy's GitHub Streak"/>
 </p>
