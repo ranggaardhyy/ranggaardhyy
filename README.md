@@ -14,7 +14,7 @@ Feel free to **DM me on Discord** — let's create something extraordinary!
 
 ### 📫 Contact Me
 [![Gmail Badge](https://img.shields.io/badge/-ranggaardhyy22@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranggaardhyy22@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-boenyy%234206-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437488468525056001)
+[![Discord Badge](https://img.shields.io/badge/-BOENY%239651-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/437488468525056001)
 
 ---
 
