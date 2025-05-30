@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center" style="color:#00b4d8; font-size:0.2em;">
-  I'm a passionate developer who loves to build things — from smart <b>machine learning models</b> to dynamic <b>websites</b> and Custom <b>Minecraft plugins</b>! <br>
+  I'm a passionate developer who loves to build things — from smart <b>machine learning models</b> to dynamic <b>websites</b> <br> and Custom <b>Minecraft plugins</b>! <br>
   <b>Minecraft Setup Specialist & Tech Explorer 🚀</b>
 </p>
 
