@@ -1,6 +1,6 @@
 <!-- Banner GIF for color and vibrance -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlkb2RvcGtpN2hqeHgzZDZ2azVhYTd6amN2YTg2d3ZsaHZ0eHVvOCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Vibrant Colorful Banner" width="100%" style="border-radius:20px; box-shadow:0 0 24px #e63946;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdtcHppbWNvYmFnb2t4cXBwa3l6MTY4eHgwYnVybDFqcG1xMXlmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" alt="Vibrant Colorful Banner" width="90%" style="border-radius:20px; box-shadow:0 0 24px #e63946;">
 </p>
 
 <h1 align="center" style="color:#7f5af0;">
@@ -135,11 +135,5 @@
 </blockquote>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranggaardhyy&show_icons=true&theme=radical" alt="Boenyy's GitHub Stats"/>
-</p>
 
 <!-- Banner and design inspired by ![image1](image1) (photo replaced with colorful GIF as requested) -->
