@@ -3,8 +3,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlkb2RvcGtpN2hqeHgzZDZ2azVhYTd6amN2YTg2d3ZsaHZ0eHVvOCZjdD1n/13HgwGsXF0aiGY/giphy.gif" alt="Vibrant Colorful Banner" width="100%" style="border-radius:20px; box-shadow:0 0 24px #e63946;">
 </p>
 
-<h1 align="center" style="color:#e63946; font-family: 'Segoe UI', sans-serif;">
-  👋 Hello there, I'm <span style="color:#7f5af0;">Rangga AS (aka Boenyy)</span>!
+<h1 align="center" style="color:#7f5af0;">
+  やあ、僕は Rangga (Boenyy)!
 </h1>
 
 <p align="center" style="color:#00b4d8; font-size:1.2em;">
