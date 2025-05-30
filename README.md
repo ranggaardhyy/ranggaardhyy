@@ -1,5 +1,8 @@
 <!-- Banner GIF for color and vibrance -->
 <p align="center">
+  <a href="https://github.com/ranggaardhyy">
+    <img src="https://img.shields.io/badge/Indonesia%20Developer-%23E63946?style=for-the-badge&logo=java&logoColor=white"/>
+  </a>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdtcHppbWNvYmFnb2t4cXBwa3l6MTY4eHgwYnVybDFqcG1xMXlmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" alt="Vibrant Colorful Banner" width="50%"  style="border-radius:20px; box-shadow:0 0 24px height:50% #e63946;">
 </p>
 
@@ -15,9 +18,6 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ranggaardhyy">
-    <img src="https://img.shields.io/badge/Indonesia%20Developer-%23E63946?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
   <a href="https://discord.com/users/437488468525056001">
     <img src="https://img.shields.io/badge/Freelance-Open-green?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
