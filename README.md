@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color:#7f5af0;">
-  やあ、僕は Rangga (Boenyy)! 🌈
+  やあ、僕は Rangga (Boenyy)!
 </h1>
 
 <p align="center" style="color:#64DFDF; font-size:1.2em;">
@@ -55,7 +55,7 @@
 - 🕹️ Custom Minecraft plugin & server specialist (Spigot, Paper, Purpur, LuckPerms, EssentialsX, etc.)
 - 🤖 Machine Learning explorer (Python, TensorFlow, Keras, OpenCV)
 - 🌐 Web builder (React, Next.js, Laravel, Node, Express)
-- 🏳️‍🌈 Sometimes I get lost in anime & digital art for inspiration.
+- 🖤 Sometimes I get lost in anime & digital art for inspiration.
 
 > <p align="center"><b style="color:#F72585;">“Code is like magic — with the right spell, you can create anything.”</b> ✨</p>
 
