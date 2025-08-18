@@ -120,7 +120,7 @@
   <li>📜 GUI systems, economy, database support</li>
   <li>🧩 Integration: Vault, PlaceholderAPI, ShopGUI+, and more</li>
   <li>📦 Supports MC 1.8.x - 1.21+</li>
-  <li>🏗️ Gradle & Maven build automation</li>
+  <li>🏗️ Gradle & Maven build</li>
 </ul>
 
 ---
