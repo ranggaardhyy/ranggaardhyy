@@ -5,7 +5,7 @@
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/ranggaardhyy/ranggaardhyy/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/ranggaardhyy/ranggaardhyy/output/snake.svg)
 
 <h1 align="center" style="color:#7f5af0;">
   やあ、僕は Rangga (Boenyy)!
