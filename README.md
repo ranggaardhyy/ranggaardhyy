@@ -5,7 +5,11 @@
   </a>
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/ranggaardhyy/ranggaardhyy/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake-light.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/<USERNAME>/<USERNAME>/output/snake-light.svg">
+</picture>
 
 <h1 align="center" style="color:#7f5af0;">
   やあ、僕は Rangga (Boenyy)!
